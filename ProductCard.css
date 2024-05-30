@@ -1,0 +1,23 @@
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+}
+
+.product-card img {
+    max-width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 16px;
+}
+
+.product-card h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+}
+
+.product-card p {
+    margin: 8px 0;
+}
